@@ -31,6 +31,8 @@ OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
 
+[beee5.pdf](https://github.com/user-attachments/files/26047839/beee5.pdf)
+
 V-I & REGULATION CHARACTERISTICS:
 
 PRECAUTIONS:
